@@ -12,7 +12,6 @@ Technologies:
 - Javascript {
   - React Native (Framework)
 }.
-- HTML.
-- CSS.
+- Front-End (HTML 5, CSS 3).
 - MySQL.
 - Mongo DB.
