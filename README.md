@@ -2,6 +2,7 @@ Hi, my name in web/ethernet is "Deep", but in real life is Guilherme, i started 
 
 Idioms/Languages (World):
 Portuguese (Brazil) - Native Language
+
 English - Advanced
 Spanish - Medium
 Russian - Beginner
