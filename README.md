@@ -9,9 +9,13 @@ Idioms/Languages (World):
 
 Technologies:
 - Lua.
+- PHP
 - Javascript {
-  - React Native (Framework)
+  - React Native
 }.
-- Front-End (HTML 5, CSS 3).
+- Front-End (HTML 5, CSS 3) | Frameworks:{
+  - Bootstrap
+  - Materialize
+- }
 - MySQL.
 - Mongo DB.
