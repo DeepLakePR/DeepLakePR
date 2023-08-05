@@ -10,10 +10,10 @@ Idioms/Languages (World):
 Technologies:
 - Lua.
 - PHP
-- Javascript | Frameworks:{
+- Javascript | Frameworks: {
   - React Native
 }
-- Front-End (HTML 5, CSS 3) | Frameworks:{
+- Front-End (HTML 5, CSS 3, Javascript) | Frameworks: {
   - Bootstrap
   - Materialize
 }
