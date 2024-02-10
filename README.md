@@ -4,8 +4,8 @@ Idioms/Languages (World):
 - Portuguese (Brazil) - Native Language
 - English - Advanced
 - Spanish - Medium
-- Russian - Beginner
 - Italian - Beginner
+- Russian - Beginner
 
 Technologies:
 - Lua.
