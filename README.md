@@ -26,7 +26,7 @@ Technologies:
   - Materialize
   - FontAwesome
   - jQuery
-  - SASS,LESS & SCSS
+  - SASS, LESS & SCSS
 }
 - Databases: {
   - MySQL
