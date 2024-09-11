@@ -2,31 +2,25 @@ Hi, my name in web/ethernet is "Deep", but in real life is Guilherme, i started 
 
 Idioms/Languages (World):
 - Portuguese (Brazil) - Native Language
-
 - English - Intermediate B2
-
 - Spanish - Beginner A2
-
 - Italian - Beginner A1
 - Russian - Beginner A1
 
 Technologies:
 - Lua
-
+- Typescript
 - PHP | Frameworks: {
   - Laravel
   - CodeIgniter
   - Slim
 }
-
 - Javascript | Frameworks: {
   - React
   - React Native
   - Angular
   - NodeJS
 }
-- Typescript
-
 - Front-End (HTML 5, CSS 3, Javascript) | Frameworks: {
   - Bootstrap
   - Materialize
@@ -34,14 +28,12 @@ Technologies:
   - jQuery
   - SASS,LESS & SCSS
 }
-
-Databases: {
+- Databases: {
   - MySQL
   - MongoDB
   - PostgreSQL
 }
-
-DevOps: {
+- DevOps: {
   - Docker
   - AWS
 }
