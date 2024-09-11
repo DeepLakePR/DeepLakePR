@@ -1,21 +1,47 @@
-Hi, my name in web/ethernet is "Deep", but in real life is Guilherme, i started in programming world when i have 9 years old, my first language why i learned is lua, now i studying PHP, Javascript and React Native.
+Hi, my name in web/ethernet is "Deep", but in real life is Guilherme, i started in programming world when i have 9 years old, my first language why i learned is lua, now i studying NodeJS,Python and Programming Fundamentals.
 
 Idioms/Languages (World):
 - Portuguese (Brazil) - Native Language
-- English - Advanced
-- Spanish - Medium
-- Italian - Beginner
-- Russian - Beginner
+
+- English - Intermediate B2
+
+- Spanish - Beginner A2
+
+- Italian - Beginner A1
+- Russian - Beginner A1
 
 Technologies:
-- Lua.
-- PHP
-- Javascript | Frameworks: {
-  - React Native
+- Lua
+
+- PHP | Frameworks: {
+  - Laravel
+  - CodeIgniter
+  - Slim
 }
+
+- Javascript | Frameworks: {
+  - React
+  - React Native
+  - Angular
+  - NodeJS
+}
+- Typescript
+
 - Front-End (HTML 5, CSS 3, Javascript) | Frameworks: {
   - Bootstrap
   - Materialize
+  - FontAwesome
+  - jQuery
+  - SASS,LESS & SCSS
 }
-- MySQL.
-- Mongo DB.
+
+Databases: {
+  - MySQL
+  - MongoDB
+  - PostgreSQL
+}
+
+DevOps: {
+  - Docker
+  - AWS
+}
