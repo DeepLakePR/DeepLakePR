@@ -1,4 +1,4 @@
-Hi, my name in web/ethernet is "Deep", but in real life is Guilherme, i started in programming world when i have 9 years old, my first language why i learned is lua, now i studying Java, Angular and Programming Fundamentals.
+Hi, my name in web/ethernet is "Deep", but in real life is Guilherme, i started in programming world when i have 9 years old, my first language why i learned is lua, now i studying React, Next and Programming Fundamentals.
 
 Idioms/Languages (World):
 - Portuguese (Brazil) - Native Language
